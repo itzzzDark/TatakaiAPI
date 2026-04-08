@@ -34,7 +34,6 @@
         "hianime.to",
         "hianimez.to"
     ],
-    "author": "https://github.com/ghoshRitesh12",
     "license": "MIT",
     "dependencies": {
         "@hono/node-server": "^1.14.2",
