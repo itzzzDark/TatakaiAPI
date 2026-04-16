@@ -22,6 +22,6 @@ Disclaimer
 <i>Need contact ? <a href="mailto:snozxyx@gmail.com">Click Here</a></i>
 
 ## Note 🚨
-- This project is directly connected with the project <a href="https://github.com/tatakai"> Tatakai </a> so , i don't recommend to use this for the independent purpose instead use this project (I am the one of head maintainer) - <li> <b>CoorenLabs</b> </li><li> Link : https://github.com/coorenlabs/cooren (Make sure to Star the project :) </li>
+- This project is directly connected with the project <a href="https://github.com/snozxyx/tatakai"> Tatakai </a> so , i don't recommend to use this for the independent purpose instead use this project (I am the one of head maintainer) - <li> <b>CoorenLabs</b> </li><li> Link : https://github.com/coorenlabs/cooren (Make sure to Star the project :) </li>
 
 API : https://api.tatakai.me/docs
